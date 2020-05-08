@@ -6,9 +6,9 @@ defaults:
     values:
       layout: default
 
-title: EPBlogsite
+title: Your Name Website
 subtitle: Digital Fab & Prototyping Fundamentals
-baseurl: "/EPBlogsite"  # the subpath of your site, e.g. /blog
+baseurl: "/web-pk"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
 remote-theme: christianezeani/panthera-jekyll
 
